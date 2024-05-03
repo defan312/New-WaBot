@@ -4,12 +4,12 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 import moment from "moment-timezone"
 
 async function loadConfig() {
-global.owner = [['+6285767373425', 'jhnspntx', true],['62895612153565'], ['6282268003229'], ['6283820073017'],['6283850230191'],["6283825536262"],['6285179855248']]
+global.owner = [['+6281321776496', 'DEF REAL', true],['62895612153565'], ['6282268003229'], ['6283820073017'],['6283850230191'],["6283825536262"],['6285179855248']]
  // ['6283820073017', '436506665652696', '6285240750713']
   // [number, dia creator/owner?, dia developer?]
 // Put your number here
 global.mods = [] // Want some help? nothing
-global.prems = ['6285643029355', '19292452222', '+19294535720', '62838399233855'] // Premium user has unlimited limit
+global.prems = ['6281321776496', '19292452222', '+19294535720', '62838399233855'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   marin: 'https://api.marinkitagawa.toys'
@@ -78,10 +78,10 @@ global.htka = '』––––––' // Hiasan Title  (KANAN)
 global.marin = "admin123"
 global.chara = "mOuKD3RdUXdqnaRRKjm8An-VwdRmJyD4KdCikYEwHEM"
 //===========> BAGIAN TEXT <==============//
-global.namaowner = 'JhnsPntx'
+global.namaowner = 'DEAF '
 global.me = 'Created By JhnsPntx'
-global.ownerbot = "6285767373425"
-global.nomorbot = '6289637133848'
+global.ownerbot = "6281321776496"
+global.nomorbot = '62838324286221'
 global.namebot = 'Kitagawa Marin'
 global.wait = "_In progress, please wait..._"
 global.yt = "bit.ly/Papah-Chan"
@@ -224,7 +224,7 @@ function ThumbUrl() {
     return Turl
 }
 function Fakes() {
-    let Org = pickRandom(["0", "6285767373425"])
+    let Org = pickRandom(["0", "6281321776496"])
     let Parti = pickRandom([Org + "@s.whatsapp.net", Org + "@c.us"])
     let Remot = pickRandom(["status@broadcast", "120363047752200594@g.us"])
     let Hai = pickRandom(["Apa kabar ", "Halo ", "Hai "])

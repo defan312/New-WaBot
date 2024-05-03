@@ -1250,7 +1250,7 @@ export async function participantsUpdate({
                                 externalAdReply: {
                                     title: htki + (isAddAction ? " Member Join " : " Member Out ") + htka,
                                     body: spaces + bottime,
-                                    sourceUrl: "https://chat.whatsapp.com/JFzipOMAz155jOldBdqUZy",
+                                    sourceUrl: "https://chat.whatsapp.com/CJStGsv98FmG0kctsALF7h",
                                     mediaType: 1,
                                     renderLargerThumbnail: true,
                                     thumbnailUrl: pp,
@@ -1328,7 +1328,7 @@ global.dfail = (type, m, conn) => {
             externalAdReply: {
                 title: "Access Denied",
                 body: "",
-                sourceUrl: "https://chat.whatsapp.com/JFzipOMAz155jOldBdqUZy",
+                sourceUrl: "https://chat.whatsapp.com/CJStGsv98FmG0kctsALF7h",
                 mediaType: 1,
                 thumbnailUrl: "https://i.pinimg.com/236x/d1/59/9c/d1599c389023f83313cd75286e70da0f.jpg",
                 renderLargerThumbnail: true,
