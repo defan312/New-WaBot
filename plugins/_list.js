@@ -14,7 +14,7 @@ for (let i = 0; i < 999; i++) arr.push({ productId: '5164304847020057' })
 			headerImage: {
 				productId: '5164304847020057', jpegThumbnail: thumb
 			},
-			businessOwnerJid: '6287845646738@s.whatsapp.net'
+			businessOwnerJid: '6281321776496@s.whatsapp.net'
 		},
 		footerText: me,
 		contextInfo: null 

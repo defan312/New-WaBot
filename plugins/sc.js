@@ -11,7 +11,7 @@ let handler = async (m, {
   degreesLongitude: 0,
   name: 'KLIK DISINI',
   address: `Nyari Sc Bang? Tuh Di Atas`,
-  url: 'https://github.com/FahriAdison/New-WaBot',
+  url: 'Wa.me/6281321776496',
   jpegThumbnail: await conn.resize(marin,300, 300),
   contextInfo: {
     mentionedJid: [m.sender], 

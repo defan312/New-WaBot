@@ -7,7 +7,7 @@ import { canLevelUp, xpRange } from '../lib/levelling.js'
 let handler = async (m, { conn, usedPrefix: _p }) => {
 
   let userno = `@${m.sender.split('@')[0]}`
-  let owner = `6285767373425@s.whatsapp.net`
+  let owner = `6281321776496@s.whatsapp.net`
     let soun = ["aku-ngakak",
         "anjay",
         "ara-ara2",
@@ -277,7 +277,7 @@ thumbnail: await(await fetch(ppl)).buffer()
                               body: `Bot Created By ${namaowner}`,
                               description: 'P',
                               thumbnail: await(await fetch(ppl)).buffer(),
-                              sourceUrl: 'https://chat.whatsapp.com/JFzipOMAz155jOldBdqUZy',
+                              sourceUrl: 'https://chat.whatsapp.com/CJStGsv98FmG0kctsALF7h',
                               previewType: "PHOTO",
                               mediaType: 1,
                               renderLargerThumbnail: false,

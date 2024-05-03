@@ -34,10 +34,10 @@ if (m.isBaileys) return
         if (m.mentionedJid.includes(this.user.jid) && m.isGroup) {
             await this.sendMessage(m.chat, { sticker : stc, thumbnail: thumb , contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-mediaUrl: 'https://chat.whatsapp.com/JFzipOMAz155jOldBdqUZy',
+mediaUrl: 'https://chat.whatsapp.com/CJStGsv98FmG0kctsALF7h',
 title: '「 ❔ 」',
 body: me,
-sourceUrl: 'https://chat.whatsapp.com/JFzipOMAz155jOldBdqUZy', thumbnail: thumb
+sourceUrl: 'https://chat.whatsapp.com/CJStGsv98FmG0kctsALF7h', thumbnail: thumb
   }
  }}, { quoted: m })
         }

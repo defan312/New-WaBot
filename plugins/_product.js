@@ -25,7 +25,7 @@ const messa = await prepareWAMessageMedia({ image: fs.readFileSync('./image/me.p
 			"retailerId": "idk",
 			"url": "wa.me/6285767373425"
 		},
-			"businessOwnerJid": "6285767373425@s.whatsapp.net",
+			"businessOwnerJid": "6281321776496@s.whatsapp.net",
 		}
 	}), { userJid: m.chat, quoted: m })
   await conn.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })

@@ -71,7 +71,7 @@ let handler = async (m, {
 	"Authorization": "Bearer " + apikey
 	}
 	})
-	m.reply(`DONE By JHNSPNTX PANEL
+	m.reply(`DONE By DEF REALL  PANEL
 	
 	 *DONE CRATE USER + SERVER ID :* ${user.id}`)
 	let ctf = `Hai @${u.split`@`[0]}
@@ -135,7 +135,7 @@ let handler = async (m, {
 	let server = res.attributes
 	let p = await m.reply(`
 	𝐃𝐎𝐍𝐄 𝐒𝐈𝐋𝐀𝐇𝐊𝐀𝐍 𝐂𝐄𝐊 𝐃𝐀𝐓𝐀 𝐀𝐊𝐔𝐍 𝐏𝐀𝐍𝐄𝐋 𝐀𝐍𝐃𝐀 𝐒𝐔𝐃𝐀𝐇 𝐓𝐄𝐑𝐊𝐈𝐑𝐈𝐌 𝐊𝐄 𝐍𝐎𝐌𝐎𝐑 𝐓𝐄𝐑𝐒𝐄𝐁𝐔𝐓 ☑️
-	© JHNSPNTX⚡
+	© DEF REALL ⚡
 	`)
 	
 	}

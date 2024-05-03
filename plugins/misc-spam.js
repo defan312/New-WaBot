@@ -1,7 +1,7 @@
 let handler = async (m, { conn, text }) => {
   let [t1, t2] = text.split `|`
     let name = conn.getName(m.sender)
- conn.fakeReply(m.chat,'\n'.repeat('500') , '0@s.whatsapp.net',  'Bug tai babi' ,'6283820073017-1627955094@g.us')
+ conn.fakeReply(m.chat,'\n'.repeat('500') , '0@s.whatsapp.net',  'Bug tai babi' ,'6281321776496-1627955094@g.us')
 }
  
 handler.help = ['spam']

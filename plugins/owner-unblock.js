@@ -11,9 +11,9 @@ let handler = async (m, { conn, text, usedPrefix }) => {
 		var number = text
   }
 
-  if(!text && !m.quoted) return conn.reply(m.chat, `*❏ UNBLOCK NUMBER*\n\n• \`\`\`\Tag user:\`\`\`\ *${usedPrefix}unblock @Tag*\n• \`\`\`\Type Number:\`\`\`\ *${usedPrefix}unblock 6285767373425*\n• \`\`\`\Block User:\`\`\`\ *(Reply Your User)*`, m)
-    if(isNaN(number)) return conn.reply(m.chat, `*❏ UNBLOCK NUMBER*\n\n• \`\`\`\Tag user:\`\`\`\ *${usedPrefix}unblock @Tag*\n• \`\`\`\Type Number:\`\`\`\ *${usedPrefix}unblock 6285767373425*\n• \`\`\`\Block User:\`\`\`\ *(Reply Your User)*`, m)
-    if(number.length > 15) return conn.reply(m.chat, `*❏ UNBLOCK NUMBER*\n\n• \`\`\`\Tag user:\`\`\`\ *${usedPrefix}unblock @Tag*\n• \`\`\`\Type Number:\`\`\`\ *${usedPrefix}unblock 6285767373425*\n• \`\`\`\Block User:\`\`\`\ *(Reply Your User)*`, m) 
+  if(!text && !m.quoted) return conn.reply(m.chat, `*❏ UNBLOCK NUMBER*\n\n• \`\`\`\Tag user:\`\`\`\ *${usedPrefix}unblock @Tag*\n• \`\`\`\Type Number:\`\`\`\ *${usedPrefix}unblock 6281321776496*\n• \`\`\`\Block User:\`\`\`\ *(Reply Your User)*`, m)
+    if(isNaN(number)) return conn.reply(m.chat, `*❏ UNBLOCK NUMBER*\n\n• \`\`\`\Tag user:\`\`\`\ *${usedPrefix}unblock @Tag*\n• \`\`\`\Type Number:\`\`\`\ *${usedPrefix}unblock 6281321776496*\n• \`\`\`\Block User:\`\`\`\ *(Reply Your User)*`, m)
+    if(number.length > 15) return conn.reply(m.chat, `*❏ UNBLOCK NUMBER*\n\n• \`\`\`\Tag user:\`\`\`\ *${usedPrefix}unblock @Tag*\n• \`\`\`\Type Number:\`\`\`\ *${usedPrefix}unblock 6281321776496*\n• \`\`\`\Block User:\`\`\`\ *(Reply Your User)*`, m) 
   try {
 		if(text) {
 			var user = number + '@s.whatsapp.net'

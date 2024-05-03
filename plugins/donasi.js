@@ -5,10 +5,8 @@ Want Support Bot?
 
 *[ PAYMENT METHOD ]*
 
-- Pulsa/pulse(Tri): *089637133848*
-- Dana/Gopay/Ovo: *0895612153565*
-- Saweria: *https://saweria.co/jhnspntx*
-- Sociabuzz: *https://sociabuzz.com/jhnspntx/donate*
+- Pulsa/pulse(Telkomseli): *081321776496*
+- Dana/Gopay/Ovo: *081321776496*
 
 Setelah melakukan donasi kirim bukti pembayaran ke owner
 `
